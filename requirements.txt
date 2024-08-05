@@ -1,0 +1,4 @@
+sqlalchemy
+sqlmodel
+pydantic
+psycopg2-binary
